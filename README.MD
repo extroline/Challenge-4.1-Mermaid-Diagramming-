@@ -1,3 +1,4 @@
+```mermaid
 flowchart LR
     A["Web Server"] -- HTML --> B("Web Front End")
     B <--> n1["API"]
@@ -11,3 +12,4 @@ flowchart LR
     DB
     AA
     end
+```
